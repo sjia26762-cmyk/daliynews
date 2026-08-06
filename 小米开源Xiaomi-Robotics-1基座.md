@@ -1,0 +1,164 @@
+# 小米开源Xiaomi-Robotics-1基座
+
+**2026年7月17日 12时34分56秒**
+
+---
+
+小米开源自研具身基座Xiaomi-Robotics-1，基于超10万小时真实操作数据预训练，实物操作成功率75%。10万小时级真实轨迹是门槛，比仿真迁移更抗分布偏移。开源意在拉高校与生态厂复现，避免闭门造车。手机厂做机器人基座的逻辑是：端侧AI+供应链+制造经验可复用，机器人是“会动的终端”。
+
+---
+
+[聚爱优选牧原app新版](https://www.xiazainiao.com/xiazai/67494.html) | [跑腿快车新商家版app](https://www.xiazainiao.com/xiazai/67495.html) | [儿歌多多手机版](https://www.xiazainiao.com/xiazai/67496.html) | [整形报价器app最新版](https://www.xiazainiao.com/xiazai/67497.html) | [神州专车app最新版2023](https://www.xiazainiao.com/xiazai/67498.html) | [挽念虚拟机终极版](https://www.xiazainiao.com/xiazai/67499.html) | [趣约会app](https://www.xiazainiao.com/xiazai/67500.html) | [时光手帐Pro app](https://www.xiazainiao.com/xiazai/67501.html) | [rotation屏幕方向管理器](https://www.xiazainiao.com/xiazai/67502.html) | [岁岁app](https://www.xiazainiao.com/xiazai/67503.html)
+
+来源依据：
+来源依据：[成都科创生态岛机器人训练场试运营.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E6%88%90%E9%83%BD%E7%A7%91%E5%88%9B%E7%94%9F%E6%80%81%E5%B2%9B%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%AE%AD%E7%BB%83%E5%9C%BA%E8%AF%95%E8%BF%90%E8%90%A5.md)<br>
+[浙江实施AIOPC团体标准界定“一人公司”.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E6%B5%99%E6%B1%9F%E5%AE%9E%E6%96%BDAIOPC%E5%9B%A2%E4%BD%93%E6%A0%87%E5%87%86%E7%95%8C%E5%AE%9A%E2%80%9C%E4%B8%80%E4%BA%BA%E5%85%AC%E5%8F%B8%E2%80%9D.md)<br>
+[中国联通北京全域5G-A百兆大上行网.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E4%B8%AD%E5%9B%BD%E8%81%94%E9%80%9A%E5%8C%97%E4%BA%AC%E5%85%A8%E5%9F%9F5G-A%E7%99%BE%E5%85%86%E5%A4%A7%E4%B8%8A%E8%A1%8C%E7%BD%91.md)<br>
+[我国首条高原高寒高铁隧道群贯通预计2027年通车.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E6%88%91%E5%9B%BD%E9%A6%96%E6%9D%A1%E9%AB%98%E5%8E%9F%E9%AB%98%E5%AF%92%E9%AB%98%E9%93%81%E9%9A%A7%E9%81%93%E7%BE%A4%E8%B4%AF%E9%80%9A%E9%A2%84%E8%AE%A12027%E5%B9%B4%E9%80%9A%E8%BD%A6.md)<br>
+[上海“星枢计划”首发星簇采用一主二辅架构.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E4%B8%8A%E6%B5%B7%E2%80%9C%E6%98%9F%E6%9E%A2%E8%AE%A1%E5%88%92%E2%80%9D%E9%A6%96%E5%8F%91%E6%98%9F%E7%B0%87%E9%87%87%E7%94%A8%E4%B8%80%E4%B8%BB%E4%BA%8C%E8%BE%85%E6%9E%B6%E6%9E%84.md)<br>
+[3D打印房屋在灾后重建中投入使用.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/3D%E6%89%93%E5%8D%B0%E6%88%BF%E5%B1%8B%E5%9C%A8%E7%81%BE%E5%90%8E%E9%87%8D%E5%BB%BA%E4%B8%AD%E6%8A%95%E5%85%A5%E4%BD%BF%E7%94%A8.md)<br>
+[多地开展农产品质量安全专项整治行动保障食品安全.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E5%A4%9A%E5%9C%B0%E5%BC%80%E5%B1%95%E5%86%9C%E4%BA%A7%E5%93%81%E8%B4%A8%E9%87%8F%E5%AE%89%E5%85%A8%E4%B8%93%E9%A1%B9%E6%95%B4%E6%B2%BB%E8%A1%8C%E5%8A%A8%E4%BF%9D%E9%9A%9C%E9%A3%9F%E5%93%81%E5%AE%89%E5%85%A8.md)<br>
+[WTT美国大满贯赛中国选手斩获两项双打冠军.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/WTT%E7%BE%8E%E5%9B%BD%E5%A4%A7%E6%BB%A1%E8%B4%AF%E8%B5%9B%E4%B8%AD%E5%9B%BD%E9%80%89%E6%89%8B%E6%96%A9%E8%8E%B7%E4%B8%A4%E9%A1%B9%E5%8F%8C%E6%89%93%E5%86%A0%E5%86%9B.md)<br>
+[人工智能优化垃圾分类提升回收率.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%BC%98%E5%8C%96%E5%9E%83%E5%9C%BE%E5%88%86%E7%B1%BB%E6%8F%90%E5%8D%87%E5%9B%9E%E6%94%B6%E7%8E%87.md)<br>
+[多地开展暑期非遗进校园活动参与学生超300万.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E5%A4%9A%E5%9C%B0%E5%BC%80%E5%B1%95%E6%9A%91%E6%9C%9F%E9%9D%9E%E9%81%97%E8%BF%9B%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8%E5%8F%82%E4%B8%8E%E5%AD%A6%E7%94%9F%E8%B6%85300%E4%B8%87.md)<br>
+
+[小米音乐播放器最新版\(Mi Music\)](https://www.xiazainiao.com/xiazai/67504.html) | [格式转换全能王app](https://www.xiazainiao.com/xiazai/67505.html) | [magisk最新版](https://www.xiazainiao.com/xiazai/67506.html) | [应用转生app官方正版](https://www.xiazainiao.com/xiazai/67507.html) | [内蒙古和校园教师版](https://www.xiazainiao.com/xiazai/67508.html) | [你今天真好看最新版本](https://www.xiazainiao.com/xiazai/67509.html) | [vnc](https://www.xiazainiao.com/xiazai/67510.html) | [微趣小视频安卓版](https://www.xiazainiao.com/xiazai/67511.html) | [你今天真好看app](https://www.xiazainiao.com/xiazai/67512.html) | [一指禅app最新版](https://www.xiazainiao.com/xiazai/67513.html)
+
+来源依据：
+来源依据：[我国首艘自主研发的深海采矿船下水填补国内空白.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E6%88%91%E5%9B%BD%E9%A6%96%E8%89%98%E8%87%AA%E4%B8%BB%E7%A0%94%E5%8F%91%E7%9A%84%E6%B7%B1%E6%B5%B7%E9%87%87%E7%9F%BF%E8%88%B9%E4%B8%8B%E6%B0%B4%E5%A1%AB%E8%A1%A5%E5%9B%BD%E5%86%85%E7%A9%BA%E7%99%BD.md)<br>
+[多地开展暑期青少年红色研学活动参与人数超200万.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E5%A4%9A%E5%9C%B0%E5%BC%80%E5%B1%95%E6%9A%91%E6%9C%9F%E9%9D%92%E5%B0%91%E5%B9%B4%E7%BA%A2%E8%89%B2%E7%A0%94%E5%AD%A6%E6%B4%BB%E5%8A%A8%E5%8F%82%E4%B8%8E%E4%BA%BA%E6%95%B0%E8%B6%85200%E4%B8%87.md)<br>
+[新型储能上半年新增超20GW.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E6%96%B0%E5%9E%8B%E5%82%A8%E8%83%BD%E4%B8%8A%E5%8D%8A%E5%B9%B4%E6%96%B0%E5%A2%9E%E8%B6%8520GW.md)<br>
+[我国首条高温超导高速磁浮试验线建成通车.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E6%88%91%E5%9B%BD%E9%A6%96%E6%9D%A1%E9%AB%98%E6%B8%A9%E8%B6%85%E5%AF%BC%E9%AB%98%E9%80%9F%E7%A3%81%E6%B5%AE%E8%AF%95%E9%AA%8C%E7%BA%BF%E5%BB%BA%E6%88%90%E9%80%9A%E8%BD%A6.md)<br>
+[2026年7月中国城市绿道网络持续扩展，骑行和步行出行比例提升.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/2026%E5%B9%B47%E6%9C%88%E4%B8%AD%E5%9B%BD%E5%9F%8E%E5%B8%82%E7%BB%BF%E9%81%93%E7%BD%91%E7%BB%9C%E6%8C%81%E7%BB%AD%E6%89%A9%E5%B1%95%EF%BC%8C%E9%AA%91%E8%A1%8C%E5%92%8C%E6%AD%A5%E8%A1%8C%E5%87%BA%E8%A1%8C%E6%AF%94%E4%BE%8B%E6%8F%90%E5%8D%87.md)<br>
+[均普智能多台具身机器人BMS产线良率99.9%.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E5%9D%87%E6%99%AE%E6%99%BA%E8%83%BD%E5%A4%9A%E5%8F%B0%E5%85%B7%E8%BA%AB%E6%9C%BA%E5%99%A8%E4%BA%BABMS%E4%BA%A7%E7%BA%BF%E8%89%AF%E7%8E%8799.9%25.md)<br>
+[article_003_headline_ts.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/article_003_headline_ts.md)<br>
+[国家医保局将AI辅助诊断纳入收费项目.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E5%9B%BD%E5%AE%B6%E5%8C%BB%E4%BF%9D%E5%B1%80%E5%B0%86AI%E8%BE%85%E5%8A%A9%E8%AF%8A%E6%96%AD%E7%BA%B3%E5%85%A5%E6%94%B6%E8%B4%B9%E9%A1%B9%E7%9B%AE.md)<br>
+[雄安卫星共享智造中心验收预计三季度投运.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E9%9B%84%E5%AE%89%E5%8D%AB%E6%98%9F%E5%85%B1%E4%BA%AB%E6%99%BA%E9%80%A0%E4%B8%AD%E5%BF%83%E9%AA%8C%E6%94%B6%E9%A2%84%E8%AE%A1%E4%B8%89%E5%AD%A3%E5%BA%A6%E6%8A%95%E8%BF%90.md)<br>
+[工信部：2026国人形机器人整机产量或破10万台.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E5%B7%A5%E4%BF%A1%E9%83%A8%EF%BC%9A2026%E5%9B%BD%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%95%B4%E6%9C%BA%E4%BA%A7%E9%87%8F%E6%88%96%E7%A0%B410%E4%B8%87%E5%8F%B0.md)<br>
+
+[一指禅官方版](https://www.xiazainiao.com/xiazai/67514.html) | [Logo Maker](https://www.xiazainiao.com/xiazai/67515.html) | [施工计算大师破解版](https://www.xiazainiao.com/xiazai/67516.html) | [闪电下载器无限制破解版](https://www.xiazainiao.com/xiazai/67517.html) | [rar解压软件](https://www.xiazainiao.com/xiazai/67518.html) | [winrar最新版\(RAR\)](https://www.xiazainiao.com/xiazai/67519.html) | [悟空拼音app](https://www.xiazainiao.com/xiazai/67520.html) | [rar安卓版](https://www.xiazainiao.com/xiazai/67521.html) | [悟空拼音全课程免费版手机版](https://www.xiazainiao.com/xiazai/67522.html) | [轻小说文库app官方版](https://www.xiazainiao.com/xiazai/67523.html)
+
+来源依据：
+来源依据：[我国首台自主研发大型医用磁共振成像设备投入临床使用.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E6%88%91%E5%9B%BD%E9%A6%96%E5%8F%B0%E8%87%AA%E4%B8%BB%E7%A0%94%E5%8F%91%E5%A4%A7%E5%9E%8B%E5%8C%BB%E7%94%A8%E7%A3%81%E5%85%B1%E6%8C%AF%E6%88%90%E5%83%8F%E8%AE%BE%E5%A4%87%E6%8A%95%E5%85%A5%E4%B8%B4%E5%BA%8A%E4%BD%BF%E7%94%A8.md)<br>
+[人工智能作曲作品首登交响音乐厅.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%BD%9C%E6%9B%B2%E4%BD%9C%E5%93%81%E9%A6%96%E7%99%BB%E4%BA%A4%E5%93%8D%E9%9F%B3%E4%B9%90%E5%8E%85.md)<br>
+[文旅部六类示范项目整合为“产业发展示范区”.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E6%96%87%E6%97%85%E9%83%A8%E5%85%AD%E7%B1%BB%E7%A4%BA%E8%8C%83%E9%A1%B9%E7%9B%AE%E6%95%B4%E5%90%88%E4%B8%BA%E2%80%9C%E4%BA%A7%E4%B8%9A%E5%8F%91%E5%B1%95%E7%A4%BA%E8%8C%83%E5%8C%BA%E2%80%9D.md)<br>
+[我国科学家在脑机接口领域取得新突破实现脑控机械臂精准操作.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E6%88%91%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E5%9C%A8%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3%E9%A2%86%E5%9F%9F%E5%8F%96%E5%BE%97%E6%96%B0%E7%AA%81%E7%A0%B4%E5%AE%9E%E7%8E%B0%E8%84%91%E6%8E%A7%E6%9C%BA%E6%A2%B0%E8%87%82%E7%B2%BE%E5%87%86%E6%93%8D%E4%BD%9C.md)<br>
+[article_002_headline_bar_batch2.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/article_002_headline_bar_batch2.md)<br>
+[2026年世界田径锦标赛室外赛中国选手斩获4金3银2铜.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/2026%E5%B9%B4%E4%B8%96%E7%95%8C%E7%94%B0%E5%BE%84%E9%94%A6%E6%A0%87%E8%B5%9B%E5%AE%A4%E5%A4%96%E8%B5%9B%E4%B8%AD%E5%9B%BD%E9%80%89%E6%89%8B%E6%96%A9%E8%8E%B74%E9%87%913%E9%93%B62%E9%93%9C.md)<br>
+[2026年全国青少年游泳锦标赛浙江队斩获10金6银4铜.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/2026%E5%B9%B4%E5%85%A8%E5%9B%BD%E9%9D%92%E5%B0%91%E5%B9%B4%E6%B8%B8%E6%B3%B3%E9%94%A6%E6%A0%87%E8%B5%9B%E6%B5%99%E6%B1%9F%E9%98%9F%E6%96%A9%E8%8E%B710%E9%87%916%E9%93%B64%E9%93%9C.md)<br>
+[宇树G1参与活体动物胆囊切除实验.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E5%AE%87%E6%A0%91G1%E5%8F%82%E4%B8%8E%E6%B4%BB%E4%BD%93%E5%8A%A8%E7%89%A9%E8%83%86%E5%9B%8A%E5%88%87%E9%99%A4%E5%AE%9E%E9%AA%8C.md)<br>
+[优刻得×上理工太空算力生存样机.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E4%BC%98%E5%88%BB%E5%BE%97%C3%97%E4%B8%8A%E7%90%86%E5%B7%A5%E5%A4%AA%E7%A9%BA%E7%AE%97%E5%8A%9B%E7%94%9F%E5%AD%98%E6%A0%B7%E6%9C%BA.md)<br>
+[脑科学研究揭示睡眠清除脑内毒素新机制.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E8%84%91%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6%E6%8F%AD%E7%A4%BA%E7%9D%A1%E7%9C%A0%E6%B8%85%E9%99%A4%E8%84%91%E5%86%85%E6%AF%92%E7%B4%A0%E6%96%B0%E6%9C%BA%E5%88%B6.md)<br>
+
+[溪鸟app最新版本](https://www.xiazainiao.com/xiazai/67524.html) | [蓝鸟抓包高级版\(HttpCanary\)](https://www.xiazainiao.com/xiazai/67525.html) | [编程狮app](https://www.xiazainiao.com/xiazai/67526.html) | [w3cschool编程学院](https://www.xiazainiao.com/xiazai/67527.html) | [一指禅自动跳过广告app](https://www.xiazainiao.com/xiazai/67528.html) | [JBL Portable官方最新版](https://www.xiazainiao.com/xiazai/67529.html) | [慧联运app最新版](https://www.xiazainiao.com/xiazai/67530.html) | [小猿拍照搜题app](https://www.xiazainiao.com/xiazai/67531.html) | [你我当年app最新版本](https://www.xiazainiao.com/xiazai/67532.html) | [你我当年ai照片修复](https://www.xiazainiao.com/xiazai/67533.html)
+
+来源依据：
+来源依据：[深海养殖工船实现深远海渔业.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E6%B7%B1%E6%B5%B7%E5%85%BB%E6%AE%96%E5%B7%A5%E8%88%B9%E5%AE%9E%E7%8E%B0%E6%B7%B1%E8%BF%9C%E6%B5%B7%E6%B8%94%E4%B8%9A.md)<br>
+[韩国开发银—聚四氟乙烯复合涂层.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E9%9F%A9%E5%9B%BD%E5%BC%80%E5%8F%91%E9%93%B6%E2%80%94%E8%81%9A%E5%9B%9B%E6%B0%9F%E4%B9%99%E7%83%AF%E5%A4%8D%E5%90%88%E6%B6%82%E5%B1%82.md)<br>
+[2026亚洲U23田径锦标赛落幕中国队斩获双榜首.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/2026%E4%BA%9A%E6%B4%B2U23%E7%94%B0%E5%BE%84%E9%94%A6%E6%A0%87%E8%B5%9B%E8%90%BD%E5%B9%95%E4%B8%AD%E5%9B%BD%E9%98%9F%E6%96%A9%E8%8E%B7%E5%8F%8C%E6%A6%9C%E9%A6%96.md)<br>
+[新型碳捕集材料吸附容量翻倍.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E6%96%B0%E5%9E%8B%E7%A2%B3%E6%8D%95%E9%9B%86%E6%9D%90%E6%96%99%E5%90%B8%E9%99%84%E5%AE%B9%E9%87%8F%E7%BF%BB%E5%80%8D.md)<br>
+[B站AI字幕翻译覆盖15种语言.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/B%E7%AB%99AI%E5%AD%97%E5%B9%95%E7%BF%BB%E8%AF%91%E8%A6%86%E7%9B%9615%E7%A7%8D%E8%AF%AD%E8%A8%80.md)<br>
+[AI音乐创作工具助力残障人士表达.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/AI%E9%9F%B3%E4%B9%90%E5%88%9B%E4%BD%9C%E5%B7%A5%E5%85%B7%E5%8A%A9%E5%8A%9B%E6%AE%8B%E9%9A%9C%E4%BA%BA%E5%A3%AB%E8%A1%A8%E8%BE%BE.md)<br>
+[科技游圈粉外国游客深圳最热.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E7%A7%91%E6%8A%80%E6%B8%B8%E5%9C%88%E7%B2%89%E5%A4%96%E5%9B%BD%E6%B8%B8%E5%AE%A2%E6%B7%B1%E5%9C%B3%E6%9C%80%E7%83%AD.md)<br>
+[曲靖“寻菌之旅”趣味定向赛结合全民健身.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E6%9B%B2%E9%9D%96%E2%80%9C%E5%AF%BB%E8%8F%8C%E4%B9%8B%E6%97%85%E2%80%9D%E8%B6%A3%E5%91%B3%E5%AE%9A%E5%90%91%E8%B5%9B%E7%BB%93%E5%90%88%E5%85%A8%E6%B0%91%E5%81%A5%E8%BA%AB.md)<br>
+[深圳试点无人公交L4级自动驾驶运营.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E6%B7%B1%E5%9C%B3%E8%AF%95%E7%82%B9%E6%97%A0%E4%BA%BA%E5%85%AC%E4%BA%A4L4%E7%BA%A7%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E8%BF%90%E8%90%A5.md)<br>
+[19岁链球小将张家乐逆转奥运冠军斩获钻石联赛首金.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/19%E5%B2%81%E9%93%BE%E7%90%83%E5%B0%8F%E5%B0%86%E5%BC%A0%E5%AE%B6%E4%B9%90%E9%80%86%E8%BD%AC%E5%A5%A5%E8%BF%90%E5%86%A0%E5%86%9B%E6%96%A9%E8%8E%B7%E9%92%BB%E7%9F%B3%E8%81%94%E8%B5%9B%E9%A6%96%E9%87%91.md)<br>
+
+[香港八达通app最新版本\(Octopus\)](https://www.xiazainiao.com/xiazai/67534.html) | [小猿搜题家长版](https://www.xiazainiao.com/xiazai/67535.html) | [在浙学app最新版](https://www.xiazainiao.com/xiazai/67536.html) | [运车管家员工版app](https://www.xiazainiao.com/xiazai/67537.html) | [云服务平台app](https://www.xiazainiao.com/xiazai/67538.html) | [编程猫手机版](https://www.xiazainiao.com/xiazai/67539.html) | [天气预报网2023](https://www.xiazainiao.com/xiazai/67540.html) | [律跑app](https://www.xiazainiao.com/xiazai/67541.html) | [X浏览器谷歌市场版](https://www.xiazainiao.com/xiazai/67542.html) | [X8沙箱安卓版本](https://www.xiazainiao.com/xiazai/67543.html)
+
+来源依据：
+来源依据：[中国选手在世界羽毛球锦标赛中斩获3金2银1铜.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E4%B8%AD%E5%9B%BD%E9%80%89%E6%89%8B%E5%9C%A8%E4%B8%96%E7%95%8C%E7%BE%BD%E6%AF%9B%E7%90%83%E9%94%A6%E6%A0%87%E8%B5%9B%E4%B8%AD%E6%96%A9%E8%8E%B73%E9%87%912%E9%93%B61%E9%93%9C.md)<br>
+[韩国年内推全民免费通用AI聊天机器人.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E9%9F%A9%E5%9B%BD%E5%B9%B4%E5%86%85%E6%8E%A8%E5%85%A8%E6%B0%91%E5%85%8D%E8%B4%B9%E9%80%9A%E7%94%A8AI%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA.md)<br>
+[我国首条智能网联汽车测试示范高速建成通车.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E6%88%91%E5%9B%BD%E9%A6%96%E6%9D%A1%E6%99%BA%E8%83%BD%E7%BD%91%E8%81%94%E6%B1%BD%E8%BD%A6%E6%B5%8B%E8%AF%95%E7%A4%BA%E8%8C%83%E9%AB%98%E9%80%9F%E5%BB%BA%E6%88%90%E9%80%9A%E8%BD%A6.md)<br>
+[西北首例体细胞克隆猫犬在杨凌诞生.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E8%A5%BF%E5%8C%97%E9%A6%96%E4%BE%8B%E4%BD%93%E7%BB%86%E8%83%9E%E5%85%8B%E9%9A%86%E7%8C%AB%E7%8A%AC%E5%9C%A8%E6%9D%A8%E5%87%8C%E8%AF%9E%E7%94%9F.md)<br>
+[腾讯混元大模型接入微信生态开放API.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E8%85%BE%E8%AE%AF%E6%B7%B7%E5%85%83%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%8E%A5%E5%85%A5%E5%BE%AE%E4%BF%A1%E7%94%9F%E6%80%81%E5%BC%80%E6%94%BEAPI.md)<br>
+[多地开展暑期青少年近视防控专项行动惠及超500万学生.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E5%A4%9A%E5%9C%B0%E5%BC%80%E5%B1%95%E6%9A%91%E6%9C%9F%E9%9D%92%E5%B0%91%E5%B9%B4%E8%BF%91%E8%A7%86%E9%98%B2%E6%8E%A7%E4%B8%93%E9%A1%B9%E8%A1%8C%E5%8A%A8%E6%83%A0%E5%8F%8A%E8%B6%85500%E4%B8%87%E5%AD%A6%E7%94%9F.md)<br>
+[蚂蚁开源SingGuard智能体安全护栏.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E8%9A%82%E8%9A%81%E5%BC%80%E6%BA%90SingGuard%E6%99%BA%E8%83%BD%E4%BD%93%E5%AE%89%E5%85%A8%E6%8A%A4%E6%A0%8F.md)<br>
+[太空制造实验成功打印功能性金属部件.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E5%A4%AA%E7%A9%BA%E5%88%B6%E9%80%A0%E5%AE%9E%E9%AA%8C%E6%88%90%E5%8A%9F%E6%89%93%E5%8D%B0%E5%8A%9F%E8%83%BD%E6%80%A7%E9%87%91%E5%B1%9E%E9%83%A8%E4%BB%B6.md)<br>
+[兰考铁铬液流离网算力电站联调成功.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E5%85%B0%E8%80%83%E9%93%81%E9%93%AC%E6%B6%B2%E6%B5%81%E7%A6%BB%E7%BD%91%E7%AE%97%E5%8A%9B%E7%94%B5%E7%AB%99%E8%81%94%E8%B0%83%E6%88%90%E5%8A%9F.md)<br>
+[多地开展暑期青少年心理健康服务行动惠及超300万学生.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E5%A4%9A%E5%9C%B0%E5%BC%80%E5%B1%95%E6%9A%91%E6%9C%9F%E9%9D%92%E5%B0%91%E5%B9%B4%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7%E6%9C%8D%E5%8A%A1%E8%A1%8C%E5%8A%A8%E6%83%A0%E5%8F%8A%E8%B6%85300%E4%B8%87%E5%AD%A6%E7%94%9F.md)<br>
+
+[卡兄卡弟app](https://www.xiazainiao.com/xiazai/67544.html) | [三星邮箱app](https://www.xiazainiao.com/xiazai/67545.html) | [瞬马远程协助软件](https://www.xiazainiao.com/xiazai/67546.html) | [手机垃圾清理管家app](https://www.xiazainiao.com/xiazai/67547.html) | [ipand熊猫频道app](https://www.xiazainiao.com/xiazai/67548.html) | [AirVisual app](https://www.xiazainiao.com/xiazai/67549.html) | [计支宝app](https://www.xiazainiao.com/xiazai/67550.html) | [圣所sanctuary官方版](https://www.xiazainiao.com/xiazai/67551.html) | [林俊杰官方购票app\(JJ20\)](https://www.xiazainiao.com/xiazai/67552.html) | [林俊杰JJ20app](https://www.xiazainiao.com/xiazai/67553.html)
+
+来源依据：
+来源依据：[长江禁渔第四年监测到江豚种群恢复.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E9%95%BF%E6%B1%9F%E7%A6%81%E6%B8%94%E7%AC%AC%E5%9B%9B%E5%B9%B4%E7%9B%91%E6%B5%8B%E5%88%B0%E6%B1%9F%E8%B1%9A%E7%A7%8D%E7%BE%A4%E6%81%A2%E5%A4%8D.md)<br>
+[国家AI应用中试基地金融生态发布.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E5%9B%BD%E5%AE%B6AI%E5%BA%94%E7%94%A8%E4%B8%AD%E8%AF%95%E5%9F%BA%E5%9C%B0%E9%87%91%E8%9E%8D%E7%94%9F%E6%80%81%E5%8F%91%E5%B8%83.md)<br>
+[安徽牯牛降发现植物新种牯牛景天.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E5%AE%89%E5%BE%BD%E7%89%AF%E7%89%9B%E9%99%8D%E5%8F%91%E7%8E%B0%E6%A4%8D%E7%89%A9%E6%96%B0%E7%A7%8D%E7%89%AF%E7%89%9B%E6%99%AF%E5%A4%A9.md)<br>
+[快手老铁支付用户数突破2亿.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E5%BF%AB%E6%89%8B%E8%80%81%E9%93%81%E6%94%AF%E4%BB%98%E7%94%A8%E6%88%B7%E6%95%B0%E7%AA%81%E7%A0%B42%E4%BA%BF.md)<br>
+[美的空调欧洲热浪销售火爆.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E7%BE%8E%E7%9A%84%E7%A9%BA%E8%B0%83%E6%AC%A7%E6%B4%B2%E7%83%AD%E6%B5%AA%E9%94%80%E5%94%AE%E7%81%AB%E7%88%86.md)<br>
+[泡泡玛特王宁造访苹果总部市值涨180亿港元.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E7%8E%8B%E5%AE%81%E9%80%A0%E8%AE%BF%E8%8B%B9%E6%9E%9C%E6%80%BB%E9%83%A8%E5%B8%82%E5%80%BC%E6%B6%A8180%E4%BA%BF%E6%B8%AF%E5%85%83.md)<br>
+[紫微科技迪迩组合体赴酒泉待发.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E7%B4%AB%E5%BE%AE%E7%A7%91%E6%8A%80%E8%BF%AA%E8%BF%A9%E7%BB%84%E5%90%88%E4%BD%93%E8%B5%B4%E9%85%92%E6%B3%89%E5%BE%85%E5%8F%91.md)<br>
+[商洛世界中学生排球赛叠加西十高铁开通.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E5%95%86%E6%B4%9B%E4%B8%96%E7%95%8C%E4%B8%AD%E5%AD%A6%E7%94%9F%E6%8E%92%E7%90%83%E8%B5%9B%E5%8F%A0%E5%8A%A0%E8%A5%BF%E5%8D%81%E9%AB%98%E9%93%81%E5%BC%80%E9%80%9A.md)<br>
+[千帆星座星载AI芯片玉龙自主解译上轨.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E5%8D%83%E5%B8%86%E6%98%9F%E5%BA%A7%E6%98%9F%E8%BD%BDAI%E8%8A%AF%E7%89%87%E7%8E%89%E9%BE%99%E8%87%AA%E4%B8%BB%E8%A7%A3%E8%AF%91%E4%B8%8A%E8%BD%A8.md)<br>
+[中国女足晋级2027世界杯正赛.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B3%E6%99%8B%E7%BA%A72027%E4%B8%96%E7%95%8C%E6%9D%AF%E6%AD%A3%E8%B5%9B.md)<br>
+
+[南山对讲软件](https://www.xiazainiao.com/xiazai/67554.html) | [飒漫画app](https://www.xiazainiao.com/xiazai/67555.html) | [白眼app最新版本](https://www.xiazainiao.com/xiazai/67556.html) | [易模app最新版](https://www.xiazainiao.com/xiazai/67557.html) | [猛犸出行app](https://www.xiazainiao.com/xiazai/67558.html) | [摩托车考试本本app](https://www.xiazainiao.com/xiazai/67559.html) | [链石商城安卓版](https://www.xiazainiao.com/xiazai/67560.html) | [爱看电视TV极速版](https://www.xiazainiao.com/xiazai/67561.html) | [党媒平台手机客户端](https://www.xiazainiao.com/xiazai/67562.html) | [逗拍视频制作软件](https://www.xiazainiao.com/xiazai/67563.html)
+
+来源依据：
+来源依据：[海洋能发电装置通过实海况测试.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E6%B5%B7%E6%B4%8B%E8%83%BD%E5%8F%91%E7%94%B5%E8%A3%85%E7%BD%AE%E9%80%9A%E8%BF%87%E5%AE%9E%E6%B5%B7%E5%86%B5%E6%B5%8B%E8%AF%95.md)<br>
+[铁路暑运过半发送4.32亿人次.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E9%93%81%E8%B7%AF%E6%9A%91%E8%BF%90%E8%BF%87%E5%8D%8A%E5%8F%91%E9%80%814.32%E4%BA%BF%E4%BA%BA%E6%AC%A1.md)<br>
+[我国首台自主研发大型邮轮发动机下线功率达8万千瓦.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E6%88%91%E5%9B%BD%E9%A6%96%E5%8F%B0%E8%87%AA%E4%B8%BB%E7%A0%94%E5%8F%91%E5%A4%A7%E5%9E%8B%E9%82%AE%E8%BD%AE%E5%8F%91%E5%8A%A8%E6%9C%BA%E4%B8%8B%E7%BA%BF%E5%8A%9F%E7%8E%87%E8%BE%BE8%E4%B8%87%E5%8D%83%E7%93%A6.md)<br>
+[银川足超永宁赛区开幕.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E9%93%B6%E5%B7%9D%E8%B6%B3%E8%B6%85%E6%B0%B8%E5%AE%81%E8%B5%9B%E5%8C%BA%E5%BC%80%E5%B9%95.md)<br>
+[英国选手打破男子一英里世界纪录.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E8%8B%B1%E5%9B%BD%E9%80%89%E6%89%8B%E6%89%93%E7%A0%B4%E7%94%B7%E5%AD%90%E4%B8%80%E8%8B%B1%E9%87%8C%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95.md)<br>
+[多地开展垃圾分类专项整治行动提升分类准确率.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E5%A4%9A%E5%9C%B0%E5%BC%80%E5%B1%95%E5%9E%83%E5%9C%BE%E5%88%86%E7%B1%BB%E4%B8%93%E9%A1%B9%E6%95%B4%E6%B2%BB%E8%A1%8C%E5%8A%A8%E6%8F%90%E5%8D%87%E5%88%86%E7%B1%BB%E5%87%86%E7%A1%AE%E7%8E%87.md)<br>
+[KimiK3暂停C端新订折射算力承载矛盾.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/KimiK3%E6%9A%82%E5%81%9CC%E7%AB%AF%E6%96%B0%E8%AE%A2%E6%8A%98%E5%B0%84%E7%AE%97%E5%8A%9B%E6%89%BF%E8%BD%BD%E7%9F%9B%E7%9B%BE.md)<br>
+[2026年全国青少年跳水锦标赛广东队斩获8金5银3铜.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/2026%E5%B9%B4%E5%85%A8%E5%9B%BD%E9%9D%92%E5%B0%91%E5%B9%B4%E8%B7%B3%E6%B0%B4%E9%94%A6%E6%A0%87%E8%B5%9B%E5%B9%BF%E4%B8%9C%E9%98%9F%E6%96%A9%E8%8E%B78%E9%87%915%E9%93%B63%E9%93%9C.md)<br>
+[网易《逆水寒》手游接入AINPC生态.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E7%BD%91%E6%98%93%E3%80%8A%E9%80%86%E6%B0%B4%E5%AF%92%E3%80%8B%E6%89%8B%E6%B8%B8%E6%8E%A5%E5%85%A5AINPC%E7%94%9F%E6%80%81.md)<br>
+[我国首条跨海高铁联络线开工预计2029年建成通车.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E6%88%91%E5%9B%BD%E9%A6%96%E6%9D%A1%E8%B7%A8%E6%B5%B7%E9%AB%98%E9%93%81%E8%81%94%E7%BB%9C%E7%BA%BF%E5%BC%80%E5%B7%A5%E9%A2%84%E8%AE%A12029%E5%B9%B4%E5%BB%BA%E6%88%90%E9%80%9A%E8%BD%A6.md)<br>
+
+[逗拍特效软件2023最新版](https://www.xiazainiao.com/xiazai/67564.html) | [逗拍换脸视频制作软件](https://www.xiazainiao.com/xiazai/67565.html) | [逗拍app最新版2023](https://www.xiazainiao.com/xiazai/67566.html) | [google keep安卓版](https://www.xiazainiao.com/xiazai/67567.html) | [移动彩云app最新版](https://www.xiazainiao.com/xiazai/67568.html) | [微脉app](https://www.xiazainiao.com/xiazai/67569.html) | [网易闪电邮手机版\(改名网易邮箱大师\)](https://www.xiazainiao.com/xiazai/67570.html) | [东方汇金app](https://www.xiazainiao.com/xiazai/67571.html) | [5E Play手机版app](https://www.xiazainiao.com/xiazai/67572.html) | [5e对战平台手机版](https://www.xiazainiao.com/xiazai/67573.html)
+
+来源依据：
+来源依据：[我国首台自主研发大型厨余垃圾处理设备下线处理效率提升50%.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E6%88%91%E5%9B%BD%E9%A6%96%E5%8F%B0%E8%87%AA%E4%B8%BB%E7%A0%94%E5%8F%91%E5%A4%A7%E5%9E%8B%E5%8E%A8%E4%BD%99%E5%9E%83%E5%9C%BE%E5%A4%84%E7%90%86%E8%AE%BE%E5%A4%87%E4%B8%8B%E7%BA%BF%E5%A4%84%E7%90%86%E6%95%88%E7%8E%87%E6%8F%90%E5%8D%8750%25.md)<br>
+[衡钢165V钢级特殊扣套管下井西南油气田.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E8%A1%A1%E9%92%A2165V%E9%92%A2%E7%BA%A7%E7%89%B9%E6%AE%8A%E6%89%A3%E5%A5%97%E7%AE%A1%E4%B8%8B%E4%BA%95%E8%A5%BF%E5%8D%97%E6%B2%B9%E6%B0%94%E7%94%B0.md)<br>
+[宇树科技启动科创板IPO.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E5%90%AF%E5%8A%A8%E7%A7%91%E5%88%9B%E6%9D%BFIPO.md)<br>
+[8·8服务消费节启动衔接金九银十.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/8%C2%B78%E6%9C%8D%E5%8A%A1%E6%B6%88%E8%B4%B9%E8%8A%82%E5%90%AF%E5%8A%A8%E8%A1%94%E6%8E%A5%E9%87%91%E4%B9%9D%E9%93%B6%E5%8D%81.md)<br>
+[《智能网联汽车自动驾驶系统安全要求》强制性国标发布.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E3%80%8A%E6%99%BA%E8%83%BD%E7%BD%91%E8%81%94%E6%B1%BD%E8%BD%A6%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E7%B3%BB%E7%BB%9F%E5%AE%89%E5%85%A8%E8%A6%81%E6%B1%82%E3%80%8B%E5%BC%BA%E5%88%B6%E6%80%A7%E5%9B%BD%E6%A0%87%E5%8F%91%E5%B8%83.md)<br>
+[中器无量中性原子量子计算机亮相.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E4%B8%AD%E5%99%A8%E6%97%A0%E9%87%8F%E4%B8%AD%E6%80%A7%E5%8E%9F%E5%AD%90%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BA%AE%E7%9B%B8.md)<br>
+[成都地铁试点宠物友好车厢.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E6%88%90%E9%83%BD%E5%9C%B0%E9%93%81%E8%AF%95%E7%82%B9%E5%AE%A0%E7%89%A9%E5%8F%8B%E5%A5%BD%E8%BD%A6%E5%8E%A2.md)<br>
+[曲靖“寻菌之旅”趣味定向赛结合全民健身.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E6%9B%B2%E9%9D%96%E2%80%9C%E5%AF%BB%E8%8F%8C%E4%B9%8B%E6%97%85%E2%80%9D%E8%B6%A3%E5%91%B3%E5%AE%9A%E5%90%91%E8%B5%9B%E7%BB%93%E5%90%88%E5%85%A8%E6%B0%91%E5%81%A5%E8%BA%AB.md)<br>
+[启元T1Q1消费级个人机器人亮相.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E5%90%AF%E5%85%83T1Q1%E6%B6%88%E8%B4%B9%E7%BA%A7%E4%B8%AA%E4%BA%BA%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BA%AE%E7%9B%B8.md)<br>
+[具识智能发insightOSSemantic具身语义系统.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E5%85%B7%E8%AF%86%E6%99%BA%E8%83%BD%E5%8F%91insightOSSemantic%E5%85%B7%E8%BA%AB%E8%AF%AD%E4%B9%89%E7%B3%BB%E7%BB%9F.md)<br>
+
+[嗷呜猫狗食谱最新版](https://www.xiazainiao.com/xiazai/67574.html) | [爱优蛙AI智能钢琴陪练app](https://www.xiazainiao.com/xiazai/67575.html) | [zarchiver绿色版](https://www.xiazainiao.com/xiazai/67576.html) | [36招聘app](https://www.xiazainiao.com/xiazai/67577.html) | [星河邦app](https://www.xiazainiao.com/xiazai/67578.html) | [钛备份专业版](https://www.xiazainiao.com/xiazai/67579.html) | [中国人保app](https://www.xiazainiao.com/xiazai/67580.html) | [谁是凶手app](https://www.xiazainiao.com/xiazai/67581.html) | [爱抢购app](https://www.xiazainiao.com/xiazai/67582.html) | [凤凰易学app](https://www.xiazainiao.com/xiazai/67583.html)
+
+来源依据：
+来源依据：[长鑫DRAM+昇腾集群国产AI服务器闭环.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E9%95%BF%E9%91%ABDRAM%2B%E6%98%87%E8%85%BE%E9%9B%86%E7%BE%A4%E5%9B%BD%E4%BA%A7AI%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%97%AD%E7%8E%AF.md)<br>
+[我国科学家在新型半导体材料领域取得新突破研发氮化镓基新型半导体材料.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E6%88%91%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E5%9C%A8%E6%96%B0%E5%9E%8B%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%9D%90%E6%96%99%E9%A2%86%E5%9F%9F%E5%8F%96%E5%BE%97%E6%96%B0%E7%AA%81%E7%A0%B4%E7%A0%94%E5%8F%91%E6%B0%AE%E5%8C%96%E9%95%93%E5%9F%BA%E6%96%B0%E5%9E%8B%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%9D%90%E6%96%99.md)<br>
+[新型储能上半年新增超20GW.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E6%96%B0%E5%9E%8B%E5%82%A8%E8%83%BD%E4%B8%8A%E5%8D%8A%E5%B9%B4%E6%96%B0%E5%A2%9E%E8%B6%8520GW.md)<br>
+[人工智能辅助老年人认知训练延缓衰退.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%BE%85%E5%8A%A9%E8%80%81%E5%B9%B4%E4%BA%BA%E8%AE%A4%E7%9F%A5%E8%AE%AD%E7%BB%83%E5%BB%B6%E7%BC%93%E8%A1%B0%E9%80%80.md)<br>
+[全球最大液化空气储能项目在张家口并网.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E6%B6%B2%E5%8C%96%E7%A9%BA%E6%B0%94%E5%82%A8%E8%83%BD%E9%A1%B9%E7%9B%AE%E5%9C%A8%E5%BC%A0%E5%AE%B6%E5%8F%A3%E5%B9%B6%E7%BD%91.md)<br>
+[太空制造实验成功打印功能性金属部件.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E5%A4%AA%E7%A9%BA%E5%88%B6%E9%80%A0%E5%AE%9E%E9%AA%8C%E6%88%90%E5%8A%9F%E6%89%93%E5%8D%B0%E5%8A%9F%E8%83%BD%E6%80%A7%E9%87%91%E5%B1%9E%E9%83%A8%E4%BB%B6.md)<br>
+[欧盟AI法案透明度条款8月2日正式生效.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E6%AC%A7%E7%9B%9FAI%E6%B3%95%E6%A1%88%E9%80%8F%E6%98%8E%E5%BA%A6%E6%9D%A1%E6%AC%BE8%E6%9C%882%E6%97%A5%E6%AD%A3%E5%BC%8F%E7%94%9F%E6%95%88.md)<br>
+[上海虹桥站试用警用巡检机器人“安迪”.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E4%B8%8A%E6%B5%B7%E8%99%B9%E6%A1%A5%E7%AB%99%E8%AF%95%E7%94%A8%E8%AD%A6%E7%94%A8%E5%B7%A1%E6%A3%80%E6%9C%BA%E5%99%A8%E4%BA%BA%E2%80%9C%E5%AE%89%E8%BF%AA%E2%80%9D.md)<br>
+[国产首艘大型邮轮开启首次商业运营搭载游客出海.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E5%9B%BD%E4%BA%A7%E9%A6%96%E8%89%98%E5%A4%A7%E5%9E%8B%E9%82%AE%E8%BD%AE%E5%BC%80%E5%90%AF%E9%A6%96%E6%AC%A1%E5%95%86%E4%B8%9A%E8%BF%90%E8%90%A5%E6%90%AD%E8%BD%BD%E6%B8%B8%E5%AE%A2%E5%87%BA%E6%B5%B7.md)<br>
+[rj_006_headline_group_batch2.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/rj_006_headline_group_batch2.md)<br>
+
+[拔草哦app](https://www.xiazainiao.com/xiazai/67584.html) | [百慕达超市app](https://www.xiazainiao.com/xiazai/67585.html) | [tTorrent汉化版](https://www.xiazainiao.com/xiazai/67586.html) | [通知呼吸灯app](https://www.xiazainiao.com/xiazai/67587.html) | [浙江预约挂号统一平台手机版](https://www.xiazainiao.com/xiazai/67588.html) | [文叔叔app](https://www.xiazainiao.com/xiazai/67589.html) | [捡对象app](https://www.xiazainiao.com/xiazai/67590.html) | [红桃粿app\(升级为看潮州app\)](https://www.xiazainiao.com/xiazai/67591.html) | [广西移动\(中国移动广西\)](https://www.xiazainiao.com/xiazai/67592.html) | [畅言晓学教师端app](https://www.xiazainiao.com/xiazai/67593.html)
+
+来源依据：
+来源依据：[中国首个全国产十万卡超算集群“曙光8000”建成.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E4%B8%AD%E5%9B%BD%E9%A6%96%E4%B8%AA%E5%85%A8%E5%9B%BD%E4%BA%A7%E5%8D%81%E4%B8%87%E5%8D%A1%E8%B6%85%E7%AE%97%E9%9B%86%E7%BE%A4%E2%80%9C%E6%9B%99%E5%85%898000%E2%80%9D%E5%BB%BA%E6%88%90.md)<br>
+[全国多地开展乡村文化礼堂提质行动新增文化活动超2万场.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E5%85%A8%E5%9B%BD%E5%A4%9A%E5%9C%B0%E5%BC%80%E5%B1%95%E4%B9%A1%E6%9D%91%E6%96%87%E5%8C%96%E7%A4%BC%E5%A0%82%E6%8F%90%E8%B4%A8%E8%A1%8C%E5%8A%A8%E6%96%B0%E5%A2%9E%E6%96%87%E5%8C%96%E6%B4%BB%E5%8A%A8%E8%B6%852%E4%B8%87%E5%9C%BA.md)<br>
+[我国科学家在古脊椎动物研究领域取得新突破发现新型古人类化石.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E6%88%91%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E5%9C%A8%E5%8F%A4%E8%84%8A%E6%A4%8E%E5%8A%A8%E7%89%A9%E7%A0%94%E7%A9%B6%E9%A2%86%E5%9F%9F%E5%8F%96%E5%BE%97%E6%96%B0%E7%AA%81%E7%A0%B4%E5%8F%91%E7%8E%B0%E6%96%B0%E5%9E%8B%E5%8F%A4%E4%BA%BA%E7%B1%BB%E5%8C%96%E7%9F%B3.md)<br>
+[德国开源主权AI模型SoofiS.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E5%BE%B7%E5%9B%BD%E5%BC%80%E6%BA%90%E4%B8%BB%E6%9D%83AI%E6%A8%A1%E5%9E%8BSoofiS.md)<br>
+[全国首个海陆一体海上风电柔直换流站发运.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E5%85%A8%E5%9B%BD%E9%A6%96%E4%B8%AA%E6%B5%B7%E9%99%86%E4%B8%80%E4%BD%93%E6%B5%B7%E4%B8%8A%E9%A3%8E%E7%94%B5%E6%9F%94%E7%9B%B4%E6%8D%A2%E6%B5%81%E7%AB%99%E5%8F%91%E8%BF%90.md)<br>
+[8·8服务消费节启动衔接金九银十.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/8%C2%B78%E6%9C%8D%E5%8A%A1%E6%B6%88%E8%B4%B9%E8%8A%82%E5%90%AF%E5%8A%A8%E8%A1%94%E6%8E%A5%E9%87%91%E4%B9%9D%E9%93%B6%E5%8D%81.md)<br>
+[多地开展垃圾分类专项整治行动提升分类准确率.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E5%A4%9A%E5%9C%B0%E5%BC%80%E5%B1%95%E5%9E%83%E5%9C%BE%E5%88%86%E7%B1%BB%E4%B8%93%E9%A1%B9%E6%95%B4%E6%B2%BB%E8%A1%8C%E5%8A%A8%E6%8F%90%E5%8D%87%E5%88%86%E7%B1%BB%E5%87%86%E7%A1%AE%E7%8E%87.md)<br>
+[2026年世界羽毛球单项锦标赛中国队斩获3金2银1铜.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/2026%E5%B9%B4%E4%B8%96%E7%95%8C%E7%BE%BD%E6%AF%9B%E7%90%83%E5%8D%95%E9%A1%B9%E9%94%A6%E6%A0%87%E8%B5%9B%E4%B8%AD%E5%9B%BD%E9%98%9F%E6%96%A9%E8%8E%B73%E9%87%912%E9%93%B61%E9%93%9C.md)<br>
+[美团开源LongCat-2.0万亿参数MoE大模型.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E7%BE%8E%E5%9B%A2%E5%BC%80%E6%BA%90LongCat-2.0%E4%B8%87%E4%BA%BF%E5%8F%82%E6%95%B0MoE%E5%A4%A7%E6%A8%A1%E5%9E%8B.md)<br>
+[中器无量中性原子量子计算机亮相.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E4%B8%AD%E5%99%A8%E6%97%A0%E9%87%8F%E4%B8%AD%E6%80%A7%E5%8E%9F%E5%AD%90%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BA%AE%E7%9B%B8.md)<br>
+
+
+---
+
+**来源参考：**
+- [SpaceX星舰第13次试飞升空前一秒自动中止.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/SpaceX%E6%98%9F%E8%88%B0%E7%AC%AC13%E6%AC%A1%E8%AF%95%E9%A3%9E%E5%8D%87%E7%A9%BA%E5%89%8D%E4%B8%80%E7%A7%92%E8%87%AA%E5%8A%A8%E4%B8%AD%E6%AD%A2.md)
+- [英特尔智能体PC落地20余项场景.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E8%8B%B1%E7%89%B9%E5%B0%94%E6%99%BA%E8%83%BD%E4%BD%93PC%E8%90%BD%E5%9C%B020%E4%BD%99%E9%A1%B9%E5%9C%BA%E6%99%AF.md)
+- [无人机集群完成高原物资投送演练.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E6%97%A0%E4%BA%BA%E6%9C%BA%E9%9B%86%E7%BE%A4%E5%AE%8C%E6%88%90%E9%AB%98%E5%8E%9F%E7%89%A9%E8%B5%84%E6%8A%95%E9%80%81%E6%BC%94%E7%BB%83.md)
+- [长征五号遥十四运抵文昌备战嫦娥七号.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E9%95%BF%E5%BE%81%E4%BA%94%E5%8F%B7%E9%81%A5%E5%8D%81%E5%9B%9B%E8%BF%90%E6%8A%B5%E6%96%87%E6%98%8C%E5%A4%87%E6%88%98%E5%AB%A6%E5%A8%A5%E4%B8%83%E5%8F%B7.md)
+- [东方有线发布超高清AI智能体“爱管家”.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E4%B8%9C%E6%96%B9%E6%9C%89%E7%BA%BF%E5%8F%91%E5%B8%83%E8%B6%85%E9%AB%98%E6%B8%85AI%E6%99%BA%E8%83%BD%E4%BD%93%E2%80%9C%E7%88%B1%E7%AE%A1%E5%AE%B6%E2%80%9D.md)
+- [铁路暑运过半发送4.32亿人次.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E9%93%81%E8%B7%AF%E6%9A%91%E8%BF%90%E8%BF%87%E5%8D%8A%E5%8F%91%E9%80%814.32%E4%BA%BF%E4%BA%BA%E6%AC%A1.md)
+- [文旅部六类示范项目整合为“产业发展示范区”.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E6%96%87%E6%97%85%E9%83%A8%E5%85%AD%E7%B1%BB%E7%A4%BA%E8%8C%83%E9%A1%B9%E7%9B%AE%E6%95%B4%E5%90%88%E4%B8%BA%E2%80%9C%E4%BA%A7%E4%B8%9A%E5%8F%91%E5%B1%95%E7%A4%BA%E8%8C%83%E5%8C%BA%E2%80%9D.md)
+- [索尼PS6Pro发布光追翻倍.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E7%B4%A2%E5%B0%BCPS6Pro%E5%8F%91%E5%B8%83%E5%85%89%E8%BF%BD%E7%BF%BB%E5%80%8D.md)
+- [智能假肢实现意念控制与触觉反馈双向闭环.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E6%99%BA%E8%83%BD%E5%81%87%E8%82%A2%E5%AE%9E%E7%8E%B0%E6%84%8F%E5%BF%B5%E6%8E%A7%E5%88%B6%E4%B8%8E%E8%A7%A6%E8%A7%89%E5%8F%8D%E9%A6%88%E5%8F%8C%E5%90%91%E9%97%AD%E7%8E%AF.md)
+- [文旅部六类示范整合为“产业发展示范区”.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E6%96%87%E6%97%85%E9%83%A8%E5%85%AD%E7%B1%BB%E7%A4%BA%E8%8C%83%E6%95%B4%E5%90%88%E4%B8%BA%E2%80%9C%E4%BA%A7%E4%B8%9A%E5%8F%91%E5%B1%95%E7%A4%BA%E8%8C%83%E5%8C%BA%E2%80%9D.md)
