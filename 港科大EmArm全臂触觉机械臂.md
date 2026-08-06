@@ -1,0 +1,125 @@
+# 港科大EmArm全臂触觉机械臂
+
+**2026年7月17日 12时34分56秒**
+
+---
+
+相关资源清单(每日更新)
+
+**【资源简介】**
+港科大申亚京团队发EmArm，亚毫米级全臂触觉定位，实时“感知-行动”闭环，识别戳/击/挠等五种触摸并理解意图，登Nature Sensors。过去触觉多集中在夹爪，全臂触觉让机器人撞到人体能立刻判“被抱还是被推”。工业装配、老人陪护都需这种全身触觉，但高密度触觉阵列的布线、标定与功耗仍是量产雷区。
+
+**资源1**：[126手机邮箱\(网易邮箱大师\)](https://www.xiazainiao.com/xiazai/67594.html)<br>
+**资源2**：[洲围app](https://www.xiazainiao.com/xiazai/67595.html)<br>
+**资源3**：[掌上长沙app](https://www.xiazainiao.com/xiazai/67596.html)<br>
+**资源4**：[早道网校app](https://www.xiazainiao.com/xiazai/67597.html)<br>
+**资源5**：[装修师app](https://www.xiazainiao.com/xiazai/67598.html)<br>
+**资源6**：[幸福海员通app](https://www.xiazainiao.com/xiazai/67599.html)<br>
+**资源7**：[金苗宝疫苗接种app](https://www.xiazainiao.com/xiazai/67600.html)<br>
+**资源8**：[羊驼雅思app](https://www.xiazainiao.com/xiazai/67601.html)<br>
+**资源9**：[AE视频剪辑手机版](https://www.xiazainiao.com/xiazai/67602.html)<br>
+**资源10**：[企鹅体育直播app](https://www.xiazainiao.com/xiazai/67603.html)<br>
+**资源11**：[印象笔记轻记app](https://www.xiazainiao.com/xiazai/67604.html)<br>
+**资源12**：[甲秀新闻app\(原名为贵阳头条\)](https://www.xiazainiao.com/xiazai/67605.html)<br>
+**资源13**：[三星pay最新版](https://www.xiazainiao.com/xiazai/67606.html)<br>
+**资源14**：[酷狗音乐2023最新版](https://www.xiazainiao.com/xiazai/67607.html)<br>
+**资源15**：[9gag社区app安卓版](https://www.xiazainiao.com/xiazai/67608.html)<br>
+**资源16**：[快狗打车app](https://www.xiazainiao.com/xiazai/67609.html)<br>
+**资源17**：[家有学霸app](https://www.xiazainiao.com/xiazai/67610.html)<br>
+**资源18**：[酷狗音乐ktv电台手机版](https://www.xiazainiao.com/xiazai/67611.html)<br>
+**资源19**：[学跳广场舞app软件](https://www.xiazainiao.com/xiazai/67612.html)<br>
+**资源20**：[乐外卖商家最新版](https://www.xiazainiao.com/xiazai/67613.html)<br>
+**资源21**：[全国导游之家app](https://www.xiazainiao.com/xiazai/67614.html)<br>
+**资源22**：[大美仁寿app](https://www.xiazainiao.com/xiazai/67615.html)<br>
+**资源23**：[酷狗免费听歌软件](https://www.xiazainiao.com/xiazai/67616.html)<br>
+**资源24**：[尺子测量员app](https://www.xiazainiao.com/xiazai/67617.html)<br>
+**资源25**：[Flexcil笔记和PDF app](https://www.xiazainiao.com/xiazai/67618.html)<br>
+**资源26**：[上海交通卡app](https://www.xiazainiao.com/xiazai/67619.html)<br>
+**资源27**：[乐外卖配送员app](https://www.xiazainiao.com/xiazai/67620.html)<br>
+**资源28**：[挖财宝app](https://www.xiazainiao.com/xiazai/67621.html)<br>
+**资源29**：[MacroDroid](https://www.xiazainiao.com/xiazai/67622.html)<br>
+**资源30**：[毛豆爱阅读app](https://www.xiazainiao.com/xiazai/67623.html)<br>
+**资源31**：[VMOS Pro最新版](https://www.xiazainiao.com/xiazai/67624.html)<br>
+**资源32**：[兔博士app](https://www.xiazainiao.com/xiazai/67625.html)<br>
+**资源33**：[兔博士查房价app](https://www.xiazainiao.com/xiazai/67626.html)<br>
+**资源34**：[华为信息app](https://www.xiazainiao.com/xiazai/67627.html)<br>
+**资源35**：[小鲜木鱼app正版](https://www.xiazainiao.com/xiazai/67628.html)<br>
+**资源36**：[喜课新概念英语app](https://www.xiazainiao.com/xiazai/67629.html)<br>
+**资源37**：[Legado阅读app](https://www.xiazainiao.com/xiazai/67630.html)<br>
+**资源38**：[阅读app](https://www.xiazainiao.com/xiazai/67631.html)<br>
+**资源39**：[什么垃圾app](https://www.xiazainiao.com/xiazai/67632.html)<br>
+**资源40**：[丰收互联最新版本](https://www.xiazainiao.com/xiazai/67633.html)<br>
+**资源41**：[短信群发助手app\(微消息群发\)](https://www.xiazainiao.com/xiazai/67634.html)<br>
+**资源42**：[万里牛erp](https://www.xiazainiao.com/xiazai/67635.html)<br>
+**资源43**：[生日助手app](https://www.xiazainiao.com/xiazai/67636.html)<br>
+**资源44**：[腾讯动漫2023最新版本](https://www.xiazainiao.com/xiazai/67637.html)<br>
+**资源45**：[腾讯漫画APP（腾讯动漫）](https://www.xiazainiao.com/xiazai/67638.html)<br>
+**资源46**：[家长通app\(改名一起学\)](https://www.xiazainiao.com/xiazai/67639.html)<br>
+**资源47**：[爱买特生鲜超市app](https://www.xiazainiao.com/xiazai/67640.html)<br>
+**资源48**：[vsco修图软件](https://www.xiazainiao.com/xiazai/67641.html)<br>
+**资源49**：[浙江农商银行app\(更名丰收互联\)](https://www.xiazainiao.com/xiazai/67642.html)<br>
+**资源50**：[语音闹钟app](https://www.xiazainiao.com/xiazai/67643.html)<br>
+**资源51**：[一起学app官方版](https://www.xiazainiao.com/xiazai/67644.html)<br>
+**资源52**：[中邮网院app](https://www.xiazainiao.com/xiazai/67645.html)<br>
+**资源53**：[中国邮政网络学院app](https://www.xiazainiao.com/xiazai/67646.html)<br>
+**资源54**：[篮球手册app最新版](https://www.xiazainiao.com/xiazai/67647.html)<br>
+**资源55**：[我的江宁app](https://www.xiazainiao.com/xiazai/67648.html)<br>
+**资源56**：[文都考研app](https://www.xiazainiao.com/xiazai/67649.html)<br>
+**资源57**：[微兔gogo手机客户端\(改名为百姓关注\)](https://www.xiazainiao.com/xiazai/67650.html)<br>
+**资源58**：[青岛农商银行直销银行app](https://www.xiazainiao.com/xiazai/67651.html)<br>
+**资源59**：[七猫小说手机版](https://www.xiazainiao.com/xiazai/67652.html)<br>
+**资源60**：[七猫免费阅读官方版](https://www.xiazainiao.com/xiazai/67653.html)<br>
+**资源61**：[贵州党员干部网络学院app](https://www.xiazainiao.com/xiazai/67654.html)<br>
+**资源62**：[卡巴斯基手机版](https://www.xiazainiao.com/xiazai/67655.html)<br>
+**资源63**：[realme应用市场app](https://www.xiazainiao.com/xiazai/67656.html)<br>
+**资源64**：[欢太应用商店](https://www.xiazainiao.com/xiazai/67657.html)<br>
+**资源65**：[嗨学网精进学堂app](https://www.xiazainiao.com/xiazai/67658.html)<br>
+**资源66**：[word文档手机版app](https://www.xiazainiao.com/xiazai/67659.html)<br>
+**资源67**：[计算器换算app\(又名万能计算器\)](https://www.xiazainiao.com/xiazai/67660.html)<br>
+**资源68**：[盛大车险app](https://www.xiazainiao.com/xiazai/67661.html)<br>
+**资源69**：[照片转文字识别提取app](https://www.xiazainiao.com/xiazai/67662.html)<br>
+**资源70**：[小学拼音学习app](https://www.xiazainiao.com/xiazai/67663.html)<br>
+**资源71**：[potplayer播放器安卓版](https://www.xiazainiao.com/xiazai/67664.html)<br>
+**资源72**：[中考生物通app](https://www.xiazainiao.com/xiazai/67665.html)<br>
+**资源73**：[书上说app](https://www.xiazainiao.com/xiazai/67666.html)<br>
+**资源74**：[fing最新版](https://www.xiazainiao.com/xiazai/67667.html)<br>
+**资源75**：[fing网络扫描仪](https://www.xiazainiao.com/xiazai/67668.html)<br>
+**资源76**：[西安e充网](https://www.xiazainiao.com/xiazai/67669.html)<br>
+**资源77**：[第一弹动漫app](https://www.xiazainiao.com/xiazai/67670.html)<br>
+**资源78**：[小狐录屏app\(更名为录屏视频大师\)](https://www.xiazainiao.com/xiazai/67671.html)<br>
+**资源79**：[BoCPay最新版](https://www.xiazainiao.com/xiazai/67672.html)<br>
+**资源80**：[录屏app](https://www.xiazainiao.com/xiazai/67673.html)<br>
+**资源81**：[相册恢复精灵\(更名为手机恢复助手\)](https://www.xiazainiao.com/xiazai/67674.html)<br>
+**资源82**：[无锡观察app](https://www.xiazainiao.com/xiazai/67675.html)<br>
+**资源83**：[西安一码通app\(i西安\)](https://www.xiazainiao.com/xiazai/67676.html)<br>
+**资源84**：[e家政客户端](https://www.xiazainiao.com/xiazai/67677.html)<br>
+**资源85**：[5sing原创音乐app](https://www.xiazainiao.com/xiazai/67678.html)<br>
+**资源86**：[腾讯qq邮箱app](https://www.xiazainiao.com/xiazai/67679.html)<br>
+**资源87**：[湘农科教云app](https://www.xiazainiao.com/xiazai/67680.html)<br>
+**资源88**：[天下任我行官方版](https://www.xiazainiao.com/xiazai/67681.html)<br>
+**资源89**：[zarchiver老版本](https://www.xiazainiao.com/xiazai/67682.html)<br>
+**资源90**：[快手赞赞宝app最新版](https://www.xiazainiao.com/xiazai/67683.html)<br>
+**资源91**：[西安地铁app](https://www.xiazainiao.com/xiazai/67684.html)<br>
+**资源92**：[小云助手app](https://www.xiazainiao.com/xiazai/67685.html)<br>
+**资源93**：[voa慢速英语app](https://www.xiazainiao.com/xiazai/67686.html)<br>
+**资源94**：[兔喜快递柜快递员版app](https://www.xiazainiao.com/xiazai/67687.html)<br>
+**资源95**：[梵净山app](https://www.xiazainiao.com/xiazai/67688.html)<br>
+**资源96**：[车酷车管家app](https://www.xiazainiao.com/xiazai/67689.html)<br>
+**资源97**：[ivms4500安卓最新版](https://www.xiazainiao.com/xiazai/67690.html)<br>
+**资源98**：[幽灵文件管理器\(Ghost Commander\)](https://www.xiazainiao.com/xiazai/67691.html)<br>
+**资源99**：[CorelDraw手机版](https://www.xiazainiao.com/xiazai/67692.html)<br>
+**资源100**：[CDR看图软件手机版\(CorelDraw Design\)](https://www.xiazainiao.com/xiazai/67693.html)<br>
+
+---
+
+**来源参考：**
+- [我国首台自主研发大型邮轮配套推进系统下线性能达国际领先水平.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E6%88%91%E5%9B%BD%E9%A6%96%E5%8F%B0%E8%87%AA%E4%B8%BB%E7%A0%94%E5%8F%91%E5%A4%A7%E5%9E%8B%E9%82%AE%E8%BD%AE%E9%85%8D%E5%A5%97%E6%8E%A8%E8%BF%9B%E7%B3%BB%E7%BB%9F%E4%B8%8B%E7%BA%BF%E6%80%A7%E8%83%BD%E8%BE%BE%E5%9B%BD%E9%99%85%E9%A2%86%E5%85%88%E6%B0%B4%E5%B9%B3.md)
+- [浦东新区发AI生物医药集聚区与银发适老实验室.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E6%B5%A6%E4%B8%9C%E6%96%B0%E5%8C%BA%E5%8F%91AI%E7%94%9F%E7%89%A9%E5%8C%BB%E8%8D%AF%E9%9B%86%E8%81%9A%E5%8C%BA%E4%B8%8E%E9%93%B6%E5%8F%91%E9%80%82%E8%80%81%E5%AE%9E%E9%AA%8C%E5%AE%A4.md)
+- [思灵展出力反馈遥操作采集系统.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E6%80%9D%E7%81%B5%E5%B1%95%E5%87%BA%E5%8A%9B%E5%8F%8D%E9%A6%88%E9%81%A5%E6%93%8D%E4%BD%9C%E9%87%87%E9%9B%86%E7%B3%BB%E7%BB%9F.md)
+- [多地开展暑期亲子手工活动参与家庭超250万户.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E5%A4%9A%E5%9C%B0%E5%BC%80%E5%B1%95%E6%9A%91%E6%9C%9F%E4%BA%B2%E5%AD%90%E6%89%8B%E5%B7%A5%E6%B4%BB%E5%8A%A8%E5%8F%82%E4%B8%8E%E5%AE%B6%E5%BA%AD%E8%B6%85250%E4%B8%87%E6%88%B7.md)
+- [AI视觉质检效率较人工提升5倍以上.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/AI%E8%A7%86%E8%A7%89%E8%B4%A8%E6%A3%80%E6%95%88%E7%8E%87%E8%BE%83%E4%BA%BA%E5%B7%A5%E6%8F%90%E5%8D%875%E5%80%8D%E4%BB%A5%E4%B8%8A.md)
+- [腾势Z9S预售纯电续航1100公里.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E8%85%BE%E5%8A%BFZ9S%E9%A2%84%E5%94%AE%E7%BA%AF%E7%94%B5%E7%BB%AD%E8%88%AA1100%E5%85%AC%E9%87%8C.md)
+- [长鑫存储DRAM订单排至2027年底优先供苹果联想.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E9%95%BF%E9%91%AB%E5%AD%98%E5%82%A8DRAM%E8%AE%A2%E5%8D%95%E6%8E%92%E8%87%B32027%E5%B9%B4%E5%BA%95%E4%BC%98%E5%85%88%E4%BE%9B%E8%8B%B9%E6%9E%9C%E8%81%94%E6%83%B3.md)
+- [国产大飞机C919完成首次跨洋商业飞行.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E5%9B%BD%E4%BA%A7%E5%A4%A7%E9%A3%9E%E6%9C%BAC919%E5%AE%8C%E6%88%90%E9%A6%96%E6%AC%A1%E8%B7%A8%E6%B4%8B%E5%95%86%E4%B8%9A%E9%A3%9E%E8%A1%8C.md)
+- [多地开展暑期青少年科普实践活动参与人数超200万.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E5%A4%9A%E5%9C%B0%E5%BC%80%E5%B1%95%E6%9A%91%E6%9C%9F%E9%9D%92%E5%B0%91%E5%B9%B4%E7%A7%91%E6%99%AE%E5%AE%9E%E8%B7%B5%E6%B4%BB%E5%8A%A8%E5%8F%82%E4%B8%8E%E4%BA%BA%E6%95%B0%E8%B6%85200%E4%B8%87.md)
+- [植物工厂叶菜维生素含量提升50%.md](https://github.com/sjia26762-cmyk/daliynews/blob/main/%E6%A4%8D%E7%89%A9%E5%B7%A5%E5%8E%82%E5%8F%B6%E8%8F%9C%E7%BB%B4%E7%94%9F%E7%B4%A0%E5%90%AB%E9%87%8F%E6%8F%90%E5%8D%8750%25.md)
